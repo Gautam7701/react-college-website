@@ -1,0 +1,10 @@
+.footer{
+    margin-top: 5rem;
+}
+.info-f{
+    margin: 2rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 10px;
+    font-size: 1rem;
+}
